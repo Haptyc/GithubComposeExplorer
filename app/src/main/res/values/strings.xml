@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GithubApp</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_user_detail">User Detail</string>
+    <string name="follower_counter">Follower Count</string>
+    <string name="repo_count">Repositories</string>
+    <string name="no_bio">No bio</string>
+    <string name="no_repositories">No repositories</string>
+</resources>
