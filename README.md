@@ -5,4 +5,4 @@ Additionally you can click into a user and see their repositories and when you c
 repositories you can see three of their commits for that repository. I did not use dagger 2 as the
 size of the project and simplicity didn't require it. Below is a video of the app being used.
 
-!(Example video)[https://i.imgur.com/D7lJd01.mp4]
+![Example video](https://i.imgur.com/D7lJd01.mp4)
